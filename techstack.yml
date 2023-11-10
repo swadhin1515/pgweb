@@ -1,0 +1,240 @@
+repo_name: swadhin1515/pgweb
+report_id: aee77dbd0b5ccf88c787a0ee143e8265
+repo_type: Public
+timestamp: '2023-11-10T06:45:49+00:00'
+requested_by: mhagander
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2020-11-08 16:03:04.000000000 Z
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: tools/search/sql/tsearch.sql
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2011-08-20 19:50:11.000000000 Z
+- name: Django
+  description: The Web framework for perfectionists with deadlines
+  website_url: https://www.djangoproject.com/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/994/4aGjtNQv.png
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2021-12-19 11:10:03.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source: requirements.txt
+  last_updated_by: Jonathan S. Katz
+  last_updated_on: 2020-11-06 14:39:42.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/validate-syntax.yaml"
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2020-09-25 11:04:39.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: requirements.txt
+  last_updated_by: Jonathan S. Katz
+  last_updated_on: 2019-01-26 19:21:28.000000000 Z
+- name: PyYAML
+  website_url: http://pyyaml.org/wiki/PyYAML
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2021-01-01 15:18:55.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: bleach
+  description: An easy safelist-based HTML-sanitizing tool
+  package_url: https://pypi.org/bleach
+  version: 3.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20045/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
+  detection_source_url: requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2020-11-08 16:03:04.000000000 Z
+  vulnerabilities:
+  - name: Cross-site scripting in Bleach
+    cve_id: CVE-2021-23980
+    cve_url: https://github.com/advisories/GHSA-vv2x-vrpj-qqpq
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.3.0
+- name: psycopg2
+  description: Psycopg2 - Python-PostgreSQL Database Adapter
+  package_url: https://pypi.org/psycopg2
+  version: 2.8.5
+  license: BSD-3-Clause-Attribution
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
+  detection_source_url: requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2020-08-25 11:23:38.000000000 Z
+- name: pycodestyle
+  description: Python style guide checker
+  package_url: https://pypi.org/pycodestyle
+  version: 2.4.0
+  license: Saxpath
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20145/default_a55249b25c76872ebbee6b173a63c5fce36136f9.png
+  detection_source_url: requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2020-01-09 12:28:02.000000000 Z
+- name: pycryptodomex
+  description: Cryptographic library for Python
+  package_url: https://pypi.org/pycryptodomex
+  version: 3.4.7
+  license: BSD-3-Clause,Unlicense,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20058/default_b08738f5cbfb89e72f22150df888a7e1df34c927.png
+  detection_source_url: requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2019-11-01 13:52:35.000000000 Z
+- name: requests-oauthlib
+  description: OAuthlib authentication support for Requests
+  package_url: https://pypi.org/requests-oauthlib
+  version: 1.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19926/default_bb29140b72c0fb9789e567bba0ef0ffadeaef5d4.png
+  detection_source_url: requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Magnus Hagander
+  last_updated_on: 2020-08-25 11:23:38.000000000 Z
