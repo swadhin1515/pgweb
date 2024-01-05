@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/pgweb is built on the following main stack:
+
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [PHP](http://www.php.net/) – Languages
 - [Python](https://www.python.org) – Languages
@@ -15,11 +16,13 @@ swadhin1515/pgweb is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/pgweb is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -33,14 +36,15 @@ swadhin1515/pgweb is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/pgweb](https://github.com/swadhin1515/pgweb)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|11/10/23 <br/>Report generated|
+|21<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -185,19 +189,20 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (6)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[bleach](https://pypi.org/bleach)|v3.1.4|11/08/20|Magnus Hagander |Apache-2.0|[CVE-2021-23980](https://github.com/advisories/GHSA-vv2x-vrpj-qqpq) (Moderate)|
-|[psycopg2](https://pypi.org/psycopg2)|v2.8.5|08/25/20|Magnus Hagander |BSD-3-Clause-Attribution|N/A|
-|[pycodestyle](https://pypi.org/pycodestyle)|v2.4.0|01/09/20|Magnus Hagander |Saxpath|N/A|
-|[pycryptodomex](https://pypi.org/pycryptodomex)|v3.4.7|11/01/19|Magnus Hagander |BSD-3-Clause,Unlicense,Apache-2.0|N/A|
-|[requests-oauthlib](https://pypi.org/requests-oauthlib)|v1.0.0|08/25/20|Magnus Hagander |ISC|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|v3.13|01/01/21|Magnus Hagander |MIT|[CVE-2020-14343](https://github.com/advisories/GHSA-8q59-q68h-6hv4) (Critical)|
+|[bleach](https://pypi.org/project/bleach)|v3.1.4|11/08/20|Magnus Hagander |Apache-2.0|[CVE-2021-23980](https://github.com/advisories/GHSA-vv2x-vrpj-qqpq) (Moderate)|
+|[psycopg2](https://pypi.org/project/psycopg2)|v2.8.5|08/25/20|Magnus Hagander |BSD-3-Clause-Attribution|N/A|
+|[pycodestyle](https://pypi.org/project/pycodestyle)|v2.4.0|01/09/20|Magnus Hagander |Saxpath|N/A|
+|[pycryptodomex](https://pypi.org/project/pycryptodomex)|v3.4.7|11/01/19|Magnus Hagander |BSD-3-Clause,Unlicense,Apache-2.0|N/A|
+|[requests-oauthlib](https://pypi.org/project/requests-oauthlib)|v1.0.0|08/25/20|Magnus Hagander |ISC|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
