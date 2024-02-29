@@ -2,7 +2,7 @@ repo_name: swadhin1515/pgweb
 report_id: aee77dbd0b5ccf88c787a0ee143e8265
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:59:02+00:00'
+timestamp: '2024-02-29T18:29:08+00:00'
 requested_by: mhagander
 provider: github
 branch: master
@@ -261,6 +261,13 @@ tools:
   detection_source: requirements.txt
   last_updated_by: Magnus Hagander
   last_updated_on: 2019-11-01 13:52:35.000000000 Z
+  vulnerabilities:
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
 - name: requests-oauthlib
   description: OAuthlib authentication support for Requests
   package_url: https://pypi.org/project/requests-oauthlib
